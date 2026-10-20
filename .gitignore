@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+DerivedData/
+build/
+.build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+# Signing / secrets
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+*.certSigningRequest
+*.pem
+*.key
+.env
+.env.*
+Secrets.xcconfig
+Local.xcconfig
+# Local data and backups
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.store
+*.leaflogbackup
+Backups/
+# Personal screenshots / photos (only Docs/screenshots/demo is allowed)
+/Screenshots/
+/PersonalPhotos/
+*.heic
+*.HEIC
