@@ -118,7 +118,7 @@ struct PlantsListView: View {
     }
 
     private func circleIcon(_ name: String, fill: Color, tint: Color) -> some View {
-        Image(systemName: name).font(.title3.weight(.bold)).foregroundStyle(tint)
+        Image(systemName: name).font(.system(size: 20, weight: .bold)).foregroundStyle(tint)
             .frame(width: 46, height: 46).background(fill, in: Circle())
     }
 
@@ -165,8 +165,8 @@ struct SeasonCard: View {
     @Environment(AppSettings.self) private var settings
     var body: some View {
         let season = settings.currentSeason(provider: env.provider)
-        HStack(alignment: .top, spacing: 14) {
-            Image(systemName: season.icon).font(.title2).foregroundStyle(Theme.green)
+        AdaptiveStack(spacing: 14, alignment: .top) {
+            Image(systemName: season.icon).font(.system(size: 22)).foregroundStyle(Theme.green)
                 .frame(width: 48, height: 48).background(Theme.surfaceRaised, in: Circle()).accessibilityHidden(true)
             VStack(alignment: .leading, spacing: 4) {
                 Text(season.cardTitle).font(.headline).foregroundStyle(Theme.textPrimary)
@@ -182,9 +182,9 @@ struct SeasonCard: View {
 struct SummaryCard: View {
     let actionable: Int
     var body: some View {
-        HStack(spacing: 14) {
+        AdaptiveStack(spacing: 14) {
             Image(systemName: actionable == 0 ? "checkmark.seal.fill" : "exclamationmark.circle.fill")
-                .font(.title2).foregroundStyle(actionable == 0 ? Theme.green : Theme.orange)
+                .font(.system(size: 22)).foregroundStyle(actionable == 0 ? Theme.green : Theme.orange)
                 .frame(width: 48, height: 48).background(Theme.surfaceRaised, in: Circle()).accessibilityHidden(true)
             VStack(alignment: .leading, spacing: 2) {
                 Text(actionable == 0 ? "Всё в порядке" : "Нужен уход: \(actionable)").font(.headline).foregroundStyle(Theme.textPrimary)

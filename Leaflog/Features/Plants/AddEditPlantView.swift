@@ -15,6 +15,7 @@ struct AddEditPlantView: View {
     @State private var photoTakenAt = Date()
     @State private var watering = ScheduleDraft()
     @State private var isSaving = false
+    @State private var createdPlant: Plant?
     @State private var error: String?
 
     private var canSave: Bool { !name.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty && !isSaving }
@@ -110,8 +111,10 @@ struct AddEditPlantView: View {
                 try env.repository.commit()
                 dismiss()
             } else {
-                let p = try env.repository.addPlant(name: name, species: species, photo: photo,
-                                                    photoTakenAt: photoTakenAt, referenceProfileID: profileID)
+                // Если сохранение расписания не удалось, повторное нажатие не создаёт второе растение.
+                let p = try createdPlant ?? env.repository.addPlant(name: name, species: species, photo: photo,
+                                                                    photoTakenAt: photoTakenAt, referenceProfileID: profileID)
+                createdPlant = p
                 if watering.enabled, let water = types.first(where: { $0.builtinKey == "water" }) {
                     try env.repository.setRule(plant: p, typeID: water.id, recurrence: watering.recurrence,
                                                anchorDate: watering.anchorDate, anchorKind: watering.anchorKind,

@@ -20,7 +20,7 @@ struct TasksView: View {
                         Text("Задачи").font(.largeTitle.weight(.bold)).foregroundStyle(Theme.textPrimary).accessibilityAddTraits(.isHeader)
                         Spacer()
                         NavigationLink { CalendarScreen(plant: nil) } label: {
-                            Image(systemName: "calendar").font(.title3.weight(.bold)).foregroundStyle(Theme.textPrimary)
+                            Image(systemName: "calendar").font(.system(size: 20, weight: .bold)).foregroundStyle(Theme.textPrimary)
                                 .frame(width: 46, height: 46).background(Theme.surface, in: Circle())
                         }.accessibilityLabel("Общий календарь")
                     }

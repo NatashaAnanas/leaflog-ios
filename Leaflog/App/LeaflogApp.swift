@@ -14,6 +14,11 @@ struct LeaflogApp: App {
     @MainActor
     private static func makeStartup() -> Startup {
         do {
+            if DemoData.isRequested {
+                let env = try DemoData.makeEnvironment()
+                AppDelegate.environment = env
+                return .ready(env)
+            }
             let container = try PersistenceFactory.makeContainer()
             let env = AppEnvironment(container: container)
             AppDelegate.environment = env

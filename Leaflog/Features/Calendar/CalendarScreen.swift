@@ -186,7 +186,7 @@ struct CalendarScreen: View {
     private func eventRow(_ e: CareEvent) -> some View {
         let type = typeMap[e.careTypeID]
         return Button { editing = e } label: {
-            HStack(spacing: 12) {
+            AdaptiveStack(spacing: 12) {
                 if let type { CareIconCircle(type: type) }
                 VStack(alignment: .leading, spacing: 3) {
                     if plant == nil, let p = e.plant { Text(p.name).font(.headline).foregroundStyle(Theme.textPrimary) }
@@ -206,7 +206,7 @@ struct CalendarScreen: View {
     }
 
     private func taskRow(_ t: CareTask, showOverdueDays: Bool) -> some View {
-        HStack(spacing: 12) {
+        AdaptiveStack(spacing: 12) {
             CareIconCircle(type: t.type)
             VStack(alignment: .leading, spacing: 3) {
                 if plant == nil { Text(t.plant.name).font(.headline).foregroundStyle(Theme.textPrimary) }

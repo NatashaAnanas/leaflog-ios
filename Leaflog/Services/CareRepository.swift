@@ -158,13 +158,14 @@ final class CareRepository {
     // MARK: Выполнения
 
     @discardableResult
-    func logCare(plant: Plant, typeID: UUID, date: Date? = nil, comment: String = "", sourceKey: String? = nil) throws -> LogResult {
+    func logCare(plant: Plant, typeID: UUID, date: Date? = nil, comment: String = "", sourceKey: String? = nil,
+                 debounce: Bool = true) throws -> LogResult {
         let now = provider.now()
         if let sourceKey, let dup = plant.events.first(where: { $0.sourceKey == sourceKey }) {
             return LogResult(event: dup, wasDuplicate: true)
         }
         // Защита от двойного нажатия: та же пара растение+вид, созданная только что.
-        if let recent = plant.events.first(where: {
+        if debounce, let recent = plant.events.first(where: {
             $0.careTypeID == typeID && abs($0.createdAt.timeIntervalSince(now)) < Self.doubleTapWindow
         }) {
             return LogResult(event: recent, wasDuplicate: true)

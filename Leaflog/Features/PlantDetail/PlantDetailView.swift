@@ -268,7 +268,7 @@ struct TaskRowView: View {
     }
 
     var body: some View {
-        HStack(spacing: 12) {
+        AdaptiveStack(spacing: 12) {
             CareIconCircle(type: task.type, size: 44)
             VStack(alignment: .leading, spacing: 3) {
                 if showPlant { Text(task.plant.name).font(.headline).foregroundStyle(Theme.textPrimary).lineLimit(2) }

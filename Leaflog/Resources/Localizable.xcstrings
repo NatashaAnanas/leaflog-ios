@@ -1,0 +1,2514 @@
+{
+  "sourceLanguage": "ru",
+  "strings": {
+    "%@ подряд": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ подряд"
+          }
+        }
+      }
+    },
+    "%@ сейчас": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ сейчас"
+          }
+        }
+      }
+    },
+    "%@ через %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ через %@"
+          }
+        }
+      }
+    },
+    "%@: просрочено %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: просрочено %@"
+          }
+        }
+      }
+    },
+    "%@: просрочено на %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: просрочено на %@"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "+": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+"
+          }
+        }
+      }
+    },
+    "Leaflog": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leaflog"
+          }
+        }
+      }
+    },
+    "OK": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "iOS хранит не более 64 ожидающих локальных уведомлений, поэтому задачи одного дня объединяются в одно напоминание. Фоновый запуск не гарантирован, а режимы Фокуса и настройки системы могут скрывать уведомления. Если приложение долго не открывать, дальние напоминания не будут запланированы заранее.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iOS хранит не более 64 ожидающих локальных уведомлений, поэтому задачи одного дня объединяются в одно напоминание. Фоновый запуск не гарантирован, а режимы Фокуса и настройки системы могут скрывать уведомления. Если приложение долго не открывать, дальние напоминания не будут запланированы заранее."
+          }
+        }
+      }
+    },
+    "· %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· %@"
+          }
+        }
+      }
+    },
+    "Автоматически (%@)": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Автоматически (%@)"
+          }
+        }
+      }
+    },
+    "Архивировать": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Архивировать"
+          }
+        }
+      }
+    },
+    "Ближайшие задачи уже запланированы.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ближайшие задачи уже запланированы."
+          }
+        }
+      }
+    },
+    "Будут удалены история ухода, заметки и фотографии этого растения из приложения. Оригиналы в вашей медиатеке не затрагиваются. Действие нельзя отменить. Если растение просто больше не нужно в списке, лучше архивировать его.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будут удалены история ухода, заметки и фотографии этого растения из приложения. Оригиналы в вашей медиатеке не затрагиваются. Действие нельзя отменить. Если растение просто больше не нужно в списке, лучше архивировать его."
+          }
+        }
+      }
+    },
+    "В архиве": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В архиве"
+          }
+        }
+      }
+    },
+    "В копию входят все растения, история ухода, заметки, фото, настройки и версия формата. Файл сохраняется туда, куда вы укажете в «Файлах»; приложение ничего никуда не отправляет само.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В копию входят все растения, история ухода, заметки, фото, настройки и версия формата. Файл сохраняется туда, куда вы укажете в «Файлах»; приложение ничего никуда не отправляет само."
+          }
+        }
+      }
+    },
+    "Важно": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Важно"
+          }
+        }
+      }
+    },
+    "Ваше имя": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваше имя"
+          }
+        }
+      }
+    },
+    "Введите название вида ухода.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Введите название вида ухода."
+          }
+        }
+      }
+    },
+    "Введите название растения.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Введите название растения."
+          }
+        }
+      }
+    },
+    "Версия формата %lld не поддерживается этой версией приложения.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Версия формата %lld не поддерживается этой версией приложения."
+          }
+        }
+      }
+    },
+    "Вид": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вид"
+          }
+        }
+      }
+    },
+    "Вид или сорт": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вид или сорт"
+          }
+        }
+      }
+    },
+    "Вид или сорт (необязательно)": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вид или сорт (необязательно)"
+          }
+        }
+      }
+    },
+    "Вид ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вид ухода"
+          }
+        }
+      }
+    },
+    "Вид ухода нельзя удалить: история сохраняет его название, цвет и иконку. Отключённый вид скрывается из новых действий и расписаний.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вид ухода нельзя удалить: история сохраняет его название, цвет и иконку. Отключённый вид скрывается из новых действий и расписаний."
+          }
+        }
+      }
+    },
+    "Виды ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Виды ухода"
+          }
+        }
+      }
+    },
+    "Включён": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Включён"
+          }
+        }
+      }
+    },
+    "Внести за другую дату": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Внести за другую дату"
+          }
+        }
+      }
+    },
+    "Внести уход": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Внести уход"
+          }
+        }
+      }
+    },
+    "Внести уход за этот день": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Внести уход за этот день"
+          }
+        }
+      }
+    },
+    "Внести уход задним числом": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Внести уход задним числом"
+          }
+        }
+      }
+    },
+    "Восстановить из архива": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Восстановить из архива"
+          }
+        }
+      }
+    },
+    "Время напоминаний": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время напоминаний"
+          }
+        }
+      }
+    },
+    "Все растения в порядке 🌿": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Все растения в порядке 🌿"
+          }
+        }
+      }
+    },
+    "Всё в порядке": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всё в порядке"
+          }
+        }
+      }
+    },
+    "Выберите": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите"
+          }
+        }
+      }
+    },
+    "Выбрать справочный профиль": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выбрать справочный профиль"
+          }
+        }
+      }
+    },
+    "Выключите, если это постоянная памятка, а не событие.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выключите, если это постоянная памятка, а не событие."
+          }
+        }
+      }
+    },
+    "Выполнено": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выполнено"
+          }
+        }
+      }
+    },
+    "Выполнено сейчас": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выполнено сейчас"
+          }
+        }
+      }
+    },
+    "Выполнено сейчас: %@, %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выполнено сейчас: %@, %@"
+          }
+        }
+      }
+    },
+    "Выполнено: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выполнено: %@"
+          }
+        }
+      }
+    },
+    "Данные восстановлены. Напоминания пересчитаны.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Данные восстановлены. Напоминания пересчитаны."
+          }
+        }
+      }
+    },
+    "Данные фото": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Данные фото"
+          }
+        }
+      }
+    },
+    "Дата добавления в приложение не меняется.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата добавления в приложение не меняется."
+          }
+        }
+      }
+    },
+    "Дата первой задачи": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата первой задачи"
+          }
+        }
+      }
+    },
+    "Дата последнего ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата последнего ухода"
+          }
+        }
+      }
+    },
+    "Дата снимка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата снимка"
+          }
+        }
+      }
+    },
+    "Двойное нажатие — отметить. Долгое — отложить напоминание": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Двойное нажатие — отметить. Долгое — отложить напоминание"
+          }
+        }
+      }
+    },
+    "Действия с растением": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Действия с растением"
+          }
+        }
+      }
+    },
+    "Действия с фото": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Действия с фото"
+          }
+        }
+      }
+    },
+    "Добавить растение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить растение"
+          }
+        }
+      }
+    },
+    "Добавить свой вид ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить свой вид ухода"
+          }
+        }
+      }
+    },
+    "Добавить фото": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить фото"
+          }
+        }
+      }
+    },
+    "Добавить фото растения": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить фото растения"
+          }
+        }
+      }
+    },
+    "Добавлено в приложение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавлено в приложение"
+          }
+        }
+      }
+    },
+    "Добавлено в приложение: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавлено в приложение: %@"
+          }
+        }
+      }
+    },
+    "Достаточно названия. Название может быть любым — оно не определяет вид растения.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Достаточно названия. Название может быть любым — оно не определяет вид растения."
+          }
+        }
+      }
+    },
+    "Единица": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Единица"
+          }
+        }
+      }
+    },
+    "Если уход не выполнен, напоминание повторится ещё несколько раз в последующие дни (через 1, 2, 3, 7 и 14 дней после срока). При каждом открытии приложения график пересчитывается заново.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Если уход не выполнен, напоминание повторится ещё несколько раз в последующие дни (через 1, 2, 3, 7 и 14 дней после срока). При каждом открытии приложения график пересчитывается заново."
+          }
+        }
+      }
+    },
+    "Если фото старое, укажите, когда оно было сделано. Дата добавления в приложение не меняется.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Если фото старое, укажите, когда оно было сделано. Дата добавления в приложение не меняется."
+          }
+        }
+      }
+    },
+    "Есть просроченный уход: %lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Есть просроченный уход: %lld"
+          }
+        }
+      }
+    },
+    "Ещё не было": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ещё не было"
+          }
+        }
+      }
+    },
+    "Задачи": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Задачи"
+          }
+        }
+      }
+    },
+    "Закрыть": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Закрыть"
+          }
+        }
+      }
+    },
+    "Заменить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заменить"
+          }
+        }
+      }
+    },
+    "Заменить текущие данные?": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заменить текущие данные?"
+          }
+        }
+      }
+    },
+    "Заметка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заметка"
+          }
+        }
+      }
+    },
+    "Заметка пуста.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заметка пуста."
+          }
+        }
+      }
+    },
+    "Записей пока нет.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Записей пока нет."
+          }
+        }
+      }
+    },
+    "Запланировано на этот день": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запланировано на этот день"
+          }
+        }
+      }
+    },
+    "Из медиатеки": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Из медиатеки"
+          }
+        }
+      }
+    },
+    "Изменить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить"
+          }
+        }
+      }
+    },
+    "Изменить вид ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить вид ухода"
+          }
+        }
+      }
+    },
+    "Изменить дату и подпись": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить дату и подпись"
+          }
+        }
+      }
+    },
+    "Изменить запись": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить запись"
+          }
+        }
+      }
+    },
+    "Изменить имя": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить имя"
+          }
+        }
+      }
+    },
+    "Изменить мои рекомендации": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить мои рекомендации"
+          }
+        }
+      }
+    },
+    "Изменить растение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить растение"
+          }
+        }
+      }
+    },
+    "Иконка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Иконка"
+          }
+        }
+      }
+    },
+    "Импорт заменяет текущую коллекцию. Перед заменой файл проверяется, а вы подтверждаете действие.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Импорт заменяет текущую коллекцию. Перед заменой файл проверяется, а вы подтверждаете действие."
+          }
+        }
+      }
+    },
+    "Импортировать копию…": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Импортировать копию…"
+          }
+        }
+      }
+    },
+    "Имя": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Имя"
+          }
+        }
+      }
+    },
+    "Как пользоваться советами": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как пользоваться советами"
+          }
+        }
+      }
+    },
+    "Календарь": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Календарь"
+          }
+        }
+      }
+    },
+    "Календарь ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Календарь ухода"
+          }
+        }
+      }
+    },
+    "Камера недоступна на этом устройстве. Выберите фото из медиатеки.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Камера недоступна на этом устройстве. Выберите фото из медиатеки."
+          }
+        }
+      }
+    },
+    "Когда": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Когда"
+          }
+        }
+      }
+    },
+    "Комментарий (необязательно)": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Комментарий (необязательно)"
+          }
+        }
+      }
+    },
+    "Копия от %@: растений — %lld, записей ухода — %lld, заметок — %lld, фото — %lld. Все текущие растения, история, заметки и фото будут заменены. Рекомендуем сначала экспортировать текущую копию.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Копия от %@: растений — %lld, записей ухода — %lld, заметок — %lld, фото — %lld. Все текущие растения, история, заметки и фото будут заменены. Рекомендуем сначала экспортировать текущую копию."
+          }
+        }
+      }
+    },
+    "Копия сохранена.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Копия сохранена."
+          }
+        }
+      }
+    },
+    "Копия фото будет удалена из приложения. Оригинал в медиатеке не затрагивается.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Копия фото будет удалена из приложения. Оригинал в медиатеке не затрагивается."
+          }
+        }
+      }
+    },
+    "Лента": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Лента"
+          }
+        }
+      }
+    },
+    "Локальный профиль": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Локальный профиль"
+          }
+        }
+      }
+    },
+    "Мои рекомендации": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мои рекомендации"
+          }
+        }
+      }
+    },
+    "Название": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название"
+          }
+        }
+      }
+    },
+    "Название (например, «Монстя»)": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название (например, «Монстя»)"
+          }
+        }
+      }
+    },
+    "Название растения": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название растения"
+          }
+        }
+      }
+    },
+    "Напоминания": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Напоминания"
+          }
+        }
+      }
+    },
+    "Напоминания для этого растения": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Напоминания для этого растения"
+          }
+        }
+      }
+    },
+    "Напоминать": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Напоминать"
+          }
+        }
+      }
+    },
+    "Напомнить завтра": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Напомнить завтра"
+          }
+        }
+      }
+    },
+    "Например, «Обрезка»": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Например, «Обрезка»"
+          }
+        }
+      }
+    },
+    "Нарушена целостность данных: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нарушена целостность данных: %@"
+          }
+        }
+      }
+    },
+    "Настроить периодичность и напоминания": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Настроить периодичность и напоминания"
+          }
+        }
+      }
+    },
+    "Начните с первого растения": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Начните с первого растения"
+          }
+        }
+      }
+    },
+    "Не выбран": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не выбран"
+          }
+        }
+      }
+    },
+    "Не удалось загрузить фото: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось загрузить фото: %@"
+          }
+        }
+      }
+    },
+    "Не удалось подготовить изображение.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось подготовить изображение."
+          }
+        }
+      }
+    },
+    "Не удалось получить фото.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось получить фото."
+          }
+        }
+      }
+    },
+    "Не удалось прочитать изображение.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось прочитать изображение."
+          }
+        }
+      }
+    },
+    "Не удалось сохранить данные: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось сохранить данные: %@"
+          }
+        }
+      }
+    },
+    "Необязательно": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Необязательно"
+          }
+        }
+      }
+    },
+    "Необязательно. Расписание любого ухода можно настроить позже на карточке растения.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Необязательно. Расписание любого ухода можно настроить позже на карточке растения."
+          }
+        }
+      }
+    },
+    "Нет доступа к камере": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нет доступа к камере"
+          }
+        }
+      }
+    },
+    "Нет записей об уходе за этот день.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нет записей об уходе за этот день."
+          }
+        }
+      }
+    },
+    "Новая заметка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новая заметка"
+          }
+        }
+      }
+    },
+    "Новое растение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новое растение"
+          }
+        }
+      }
+    },
+    "Новый вид ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новый вид ухода"
+          }
+        }
+      }
+    },
+    "Нужен уход за растениями: %lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нужен уход за растениями: %lld"
+          }
+        }
+      }
+    },
+    "Нужен уход: %lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нужен уход: %lld"
+          }
+        }
+      }
+    },
+    "О приложении": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "О приложении"
+          }
+        }
+      }
+    },
+    "Обложка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обложка"
+          }
+        }
+      }
+    },
+    "Обозначения: заливка — выполнено, кольцо — запланировано, треугольник — просрочено": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обозначения: заливка — выполнено, кольцо — запланировано, треугольник — просрочено"
+          }
+        }
+      }
+    },
+    "Общий календарь": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Общий календарь"
+          }
+        }
+      }
+    },
+    "Ограничения iOS": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ограничения iOS"
+          }
+        }
+      }
+    },
+    "Откройте вкладку «Задачи» или отметьте уход на карточке.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Откройте вкладку «Задачи» или отметьте уход на карточке."
+          }
+        }
+      }
+    },
+    "Открыть настройки": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Открыть настройки"
+          }
+        }
+      }
+    },
+    "Открыть, изменить или удалить запись": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Открыть, изменить или удалить запись"
+          }
+        }
+      }
+    },
+    "Отложить до завтра": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отложить до завтра"
+          }
+        }
+      }
+    },
+    "Отмена": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отмена"
+          }
+        }
+      }
+    },
+    "Отменить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отменить"
+          }
+        }
+      }
+    },
+    "Отметить уход": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отметить уход"
+          }
+        }
+      }
+    },
+    "Отметить: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отметить: %@"
+          }
+        }
+      }
+    },
+    "Отсчёт": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отсчёт"
+          }
+        }
+      }
+    },
+    "Очистить поиск": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Очистить поиск"
+          }
+        }
+      }
+    },
+    "Ошибка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ошибка"
+          }
+        }
+      }
+    },
+    "Первая задача": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Первая задача"
+          }
+        }
+      }
+    },
+    "Повторять по расписанию": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повторять по расписанию"
+          }
+        }
+      }
+    },
+    "Повторять про просроченный уход": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повторять про просроченный уход"
+          }
+        }
+      }
+    },
+    "Подождите…": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подождите…"
+          }
+        }
+      }
+    },
+    "Подпись": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подпись"
+          }
+        }
+      }
+    },
+    "Поиск": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поиск"
+          }
+        }
+      }
+    },
+    "Поиск по названию": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поиск по названию"
+          }
+        }
+      }
+    },
+    "Показать все": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать все"
+          }
+        }
+      }
+    },
+    "Показывать дату": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показывать дату"
+          }
+        }
+      }
+    },
+    "Полив ещё не отмечался": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Полив ещё не отмечался"
+          }
+        }
+      }
+    },
+    "Получать напоминания": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Получать напоминания"
+          }
+        }
+      }
+    },
+    "Полушарие": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Полушарие"
+          }
+        }
+      }
+    },
+    "Пора: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пора: %@"
+          }
+        }
+      }
+    },
+    "Последнее выполнение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последнее выполнение"
+          }
+        }
+      }
+    },
+    "Последний полив: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последний полив: %@"
+          }
+        }
+      }
+    },
+    "Последний раз делали": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последний раз делали"
+          }
+        }
+      }
+    },
+    "Последний раз: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последний раз: %@"
+          }
+        }
+      }
+    },
+    "Предпросмотр": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Предпросмотр"
+          }
+        }
+      }
+    },
+    "Предустановленный": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Предустановленный"
+          }
+        }
+      }
+    },
+    "Предыдущий месяц": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Предыдущий месяц"
+          }
+        }
+      }
+    },
+    "Привет!": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Привет!"
+          }
+        }
+      }
+    },
+    "Привет, %@!": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Привет, %@!"
+          }
+        }
+      }
+    },
+    "Приложение работает и без них. Чтобы получать напоминания, откройте Настройки iOS → Уведомления → Leaflog и разрешите их.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приложение работает и без них. Чтобы получать напоминания, откройте Настройки iOS → Уведомления → Leaflog и разрешите их."
+          }
+        }
+      }
+    },
+    "Прогресс": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прогресс"
+          }
+        }
+      }
+    },
+    "Просрочено": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Просрочено"
+          }
+        }
+      }
+    },
+    "Профиль": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профиль"
+          }
+        }
+      }
+    },
+    "Профиль нужен только для справочных советов. Расписание он не меняет.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профиль нужен только для справочных советов. Расписание он не меняет."
+          }
+        }
+      }
+    },
+    "Разрешение iOS запрашивается в момент включения.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешение iOS запрашивается в момент включения."
+          }
+        }
+      }
+    },
+    "Разрешите доступ к камере для Leaflog в Настройках iOS. Остальные функции работают без камеры.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешите доступ к камере для Leaflog в Настройках iOS. Остальные функции работают без камеры."
+          }
+        }
+      }
+    },
+    "Расписание": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расписание"
+          }
+        }
+      }
+    },
+    "Расписание не задано": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расписание не задано"
+          }
+        }
+      }
+    },
+    "Расписание не настроено. Включите повторение для нужного вида ухода ниже — тогда здесь появятся сроки.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Расписание не настроено. Включите повторение для нужного вида ухода ниже — тогда здесь появятся сроки."
+          }
+        }
+      }
+    },
+    "Растение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Растение"
+          }
+        }
+      }
+    },
+    "Растения": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Растения"
+          }
+        }
+      }
+    },
+    "Регулярный уход — лучше для растений.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Регулярный уход — лучше для растений."
+          }
+        }
+      }
+    },
+    "Резервная копия": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Резервная копия"
+          }
+        }
+      }
+    },
+    "СЕГОДНЯ ДЛЯ ТЕБЯ": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "СЕГОДНЯ ДЛЯ ТЕБЯ"
+          }
+        }
+      }
+    },
+    "Сводка по уходу": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сводка по уходу"
+          }
+        }
+      }
+    },
+    "Свой вид ухода": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Свой вид ухода"
+          }
+        }
+      }
+    },
+    "Сделать обложкой": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сделать обложкой"
+          }
+        }
+      }
+    },
+    "Северное": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Северное"
+          }
+        }
+      }
+    },
+    "Сегодня": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня"
+          }
+        }
+      }
+    },
+    "Сегодня нужен уход: %lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня нужен уход: %lld"
+          }
+        }
+      }
+    },
+    "Сегодня: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня: %@"
+          }
+        }
+      }
+    },
+    "Сезон": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сезон"
+          }
+        }
+      }
+    },
+    "Сезон влияет только на справочные советы и не меняет ваши интервалы.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сезон влияет только на справочные советы и не меняет ваши интервалы."
+          }
+        }
+      }
+    },
+    "Сейчас: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сейчас: %@"
+          }
+        }
+      }
+    },
+    "Сетка": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сетка"
+          }
+        }
+      }
+    },
+    "Следующий месяц": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующий месяц"
+          }
+        }
+      }
+    },
+    "Следующий срок": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующий срок"
+          }
+        }
+      }
+    },
+    "Следующий срок считается от фактической даты последнего выполнения. Без расписания уход просто фиксируется вручную.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующий срок считается от фактической даты последнего выполнения. Без расписания уход просто фиксируется вручную."
+          }
+        }
+      }
+    },
+    "Следующий уход уже в расписании.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующий уход уже в расписании."
+          }
+        }
+      }
+    },
+    "Сменить профиль": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сменить профиль"
+          }
+        }
+      }
+    },
+    "Снято %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Снято %@"
+          }
+        }
+      }
+    },
+    "Снято: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Снято: %@"
+          }
+        }
+      }
+    },
+    "Снять фото": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Снять фото"
+          }
+        }
+      }
+    },
+    "Советы": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Советы"
+          }
+        }
+      }
+    },
+    "Советы по уходу": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Советы по уходу"
+          }
+        }
+      }
+    },
+    "Сохранить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранить"
+          }
+        }
+      }
+    },
+    "Сохраняет выполнение на сегодня для растения %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохраняет выполнение на сегодня для растения %@"
+          }
+        }
+      }
+    },
+    "Справочный профиль": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Справочный профиль"
+          }
+        }
+      }
+    },
+    "Справочный профиль не выбран. Название растения у вас произвольное, поэтому приложение не угадывает вид. Выберите профиль вручную или оставьте растение без него.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Справочный профиль не выбран. Название растения у вас произвольное, поэтому приложение не угадывает вид. Выберите профиль вручную или оставьте растение без него."
+          }
+        }
+      }
+    },
+    "Срок следующего ухода будет пересчитан по оставшейся истории.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Срок следующего ухода будет пересчитан по оставшейся истории."
+          }
+        }
+      }
+    },
+    "Срок: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Срок: %@"
+          }
+        }
+      }
+    },
+    "Текст заметки": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Текст заметки"
+          }
+        }
+      }
+    },
+    "Требуют внимания: %lld": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Требуют внимания: %lld"
+          }
+        }
+      }
+    },
+    "Уведомления выключены в системе": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Уведомления выключены в системе"
+          }
+        }
+      }
+    },
+    "Удаление приложения может удалить все локальные данные. Сохраняйте копию в «Файлы» или iCloud Drive до удаления или переустановки.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удаление приложения может удалить все локальные данные. Сохраняйте копию в «Файлы» или iCloud Drive до удаления или переустановки."
+          }
+        }
+      }
+    },
+    "Удалить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить"
+          }
+        }
+      }
+    },
+    "Удалить «%@»?": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить «%@»?"
+          }
+        }
+      }
+    },
+    "Удалить заметку": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить заметку"
+          }
+        }
+      }
+    },
+    "Удалить заметку?": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить заметку?"
+          }
+        }
+      }
+    },
+    "Удалить запись": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить запись"
+          }
+        }
+      }
+    },
+    "Удалить запись об уходе?": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить запись об уходе?"
+          }
+        }
+      }
+    },
+    "Удалить навсегда": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить навсегда"
+          }
+        }
+      }
+    },
+    "Удалить растение": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить растение"
+          }
+        }
+      }
+    },
+    "Удалить фото": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить фото"
+          }
+        }
+      }
+    },
+    "Удалить фото?": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить фото?"
+          }
+        }
+      }
+    },
+    "Файл повреждён: %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Файл повреждён: %@"
+          }
+        }
+      }
+    },
+    "Фото выбрано. Нажмите, чтобы изменить": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото выбрано. Нажмите, чтобы изменить"
+          }
+        }
+      }
+    },
+    "Фото растения, снято %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото растения, снято %@"
+          }
+        }
+      }
+    },
+    "Фото, снято %@%@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фото, снято %@%@"
+          }
+        }
+      }
+    },
+    "Цвет": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цвет"
+          }
+        }
+      }
+    },
+    "Цвет %@": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цвет %@"
+          }
+        }
+      }
+    },
+    "Что сделано": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что сделано"
+          }
+        }
+      }
+    },
+    "Экспортировать копию…": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Экспортировать копию…"
+          }
+        }
+      }
+    },
+    "Это не файл резервной копии Leaflog.": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это не файл резервной копии Leaflog."
+          }
+        }
+      }
+    },
+    "Южное": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Южное"
+          }
+        }
+      }
+    },
+    "—": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "—"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

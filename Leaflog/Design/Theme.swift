@@ -29,10 +29,10 @@ enum Theme {
     static let surfaceRaised = Color(light: "E8EEE2", dark: "273429")
     static let textPrimary = Color(light: "17231B", dark: "F3F1EA")
     static let textSecondary = Color(light: "5B685F", dark: "A0ADA4")
-    static let green = Color(light: "4B7A3C", dark: "7FB069")
-    static let greenFill = Color(light: "4B7A3C", dark: "5E8C4F")
-    static let orange = Color(light: "D9791F", dark: "F4A259")
-    static let danger = Color(light: "C2452D", dark: "F08A73")
+    static let green = Color(light: "3F6E32", dark: "7FB069")
+    static let greenFill = Color(light: "3F6E32", dark: "4A7A3D")
+    static let orange = Color(light: "A85407", dark: "F4A259")
+    static let danger = Color(light: "B83A24", dark: "F08A73")
     static let separator = Color(light: "D9DED3", dark: "2E3B32")
 
     static let cardRadius: CGFloat = 24
@@ -197,4 +197,20 @@ enum Fmt {
 
 extension String {
     var capitalizedFirst: String { prefix(1).uppercased() + dropFirst() }
+}
+
+
+/// На крупных размерах шрифта (accessibility) горизонтальная раскладка превращается в вертикальную.
+struct AdaptiveStack<Content: View>: View {
+    var spacing: CGFloat = 12
+    var alignment: VerticalAlignment = .center
+    @Environment(\.dynamicTypeSize) private var typeSize
+    @ViewBuilder var content: () -> Content
+    var body: some View {
+        if typeSize.isAccessibilitySize {
+            VStack(alignment: .leading, spacing: spacing, content: content)
+        } else {
+            HStack(alignment: alignment, spacing: spacing, content: content)
+        }
+    }
 }

@@ -17,9 +17,9 @@ struct PlantCardView: View {
     }
 
     var body: some View {
-        HStack(spacing: 12) {
+        AdaptiveStack(spacing: 12) {
             NavigationLink(value: plant) {
-                HStack(spacing: 14) {
+                AdaptiveStack(spacing: 14) {
                     PlantCover(plant: plant, size: 84)
                     VStack(alignment: .leading, spacing: 5) {
                         Text(plant.name).font(.title3.weight(.bold)).foregroundStyle(Theme.textPrimary).lineLimit(2)

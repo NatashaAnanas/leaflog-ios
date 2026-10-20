@@ -1,0 +1,8 @@
+{
+  "sourceLanguage" : "ru",
+  "strings" : {
+    "CFBundleDisplayName" : { "localizations" : { "ru" : { "stringUnit" : { "state" : "translated", "value" : "Leaflog" } } } },
+    "NSCameraUsageDescription" : { "localizations" : { "ru" : { "stringUnit" : { "state" : "translated", "value" : "Камера нужна, чтобы сфотографировать растение для его фотодневника. Снимок хранится только на этом устройстве." } } } }
+  },
+  "version" : "1.0"
+}
