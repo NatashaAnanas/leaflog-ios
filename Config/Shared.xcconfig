@@ -1,0 +1,7 @@
+// Общие настройки подписи. Значения по умолчанию — владельца репозитория.
+// Чтобы собрать под своей командой Apple, скопируйте Config/Local.xcconfig.example в Config/Local.xcconfig
+// (файл не попадает в git) и впишите свой уникальный Bundle Identifier и Team ID.
+LEAFLOG_BUNDLE_ID = com.natashaananas.leaflog
+LEAFLOG_TEAM = VC4K7QVH4Y
+
+#include? "Local.xcconfig"

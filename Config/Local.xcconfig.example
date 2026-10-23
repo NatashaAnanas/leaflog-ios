@@ -1,0 +1,5 @@
+// Скопируйте в Config/Local.xcconfig и заполните.
+// Bundle Identifier должен быть уникальным среди всех разработчиков Apple (например, com.ваше-имя.leaflog).
+LEAFLOG_BUNDLE_ID = com.example.leaflog
+// Team ID: Xcode → Settings → Accounts → ваша команда, либо developer.apple.com → Membership.
+LEAFLOG_TEAM = XXXXXXXXXX

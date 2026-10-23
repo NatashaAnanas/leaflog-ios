@@ -21,7 +21,11 @@
 ## Требования и запуск
 - Xcode 27.1 (проверено), iOS 17.0+ (SwiftData), Swift/SwiftUI, внешних зависимостей нет.
 - Откройте `Leaflog.xcodeproj`, выберите схему **Leaflog**, симулятор или подключённый iPhone, нажмите Run.
-- Для iPhone: Signing & Capabilities → ваша команда (Personal Team подойдёт), при необходимости смените Bundle Identifier.
+- **Свой аккаунт Apple (другой Mac или другой разработчик).** Идентификатор по умолчанию принадлежит владельцу репозитория, и под другой командой Xcode выдаст «Failed Registering Bundle Identifier». Решение без правки проекта:
+  ```bash
+  cp Config/Local.xcconfig.example Config/Local.xcconfig
+  ```
+  и впишите в `Config/Local.xcconfig` свой уникальный `LEAFLOG_BUNDLE_ID` (например, `com.ваше-имя.leaflog`) и `LEAFLOG_TEAM` (Team ID из Xcode → Settings → Accounts). Файл в git не попадает. Данные приложения с другим идентификатором хранятся отдельно; перенос — через резервную копию (см. BACKUP.md).
 - Тесты: `⌘U` или
   ```bash
   xcodebuild -project Leaflog.xcodeproj -scheme Leaflog -destination 'platform=iOS Simulator,name=iPhone 17 Pro' test CODE_SIGNING_ALLOWED=NO
